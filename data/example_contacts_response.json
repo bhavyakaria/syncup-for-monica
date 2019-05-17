@@ -1,0 +1,248 @@
+{
+    "data": [
+        {
+            "id": 322472,
+            "object": "contact",
+            "hash_id": "h:0jG6R7a2my34J29M5lJQ",
+            "first_name": "Arya",
+            "last_name": "Stark",
+            "nickname": null,
+            "description": null,
+            "gender": "Woman",
+            "gender_type": "F",
+            "is_starred": false,
+            "is_partial": false,
+            "is_active": true,
+            "is_dead": false,
+            "last_called": null,
+            "last_activity_together": null,
+            "stay_in_touch_frequency": null,
+            "stay_in_touch_trigger_date": null,
+            "information": {
+                "relationships": {
+                    "love": {
+                        "total": 0,
+                        "contacts": []
+                    },
+                    "family": {
+                        "total": 0,
+                        "contacts": []
+                    },
+                    "friend": {
+                        "total": 0,
+                        "contacts": []
+                    },
+                    "work": {
+                        "total": 0,
+                        "contacts": []
+                    }
+                },
+                "dates": {
+                    "birthdate": {
+                        "is_age_based": null,
+                        "is_year_unknown": null,
+                        "date": null
+                    },
+                    "deceased_date": {
+                        "is_age_based": null,
+                        "is_year_unknown": null,
+                        "date": null
+                    }
+                },
+                "career": {
+                    "job": "Assassin",
+                    "company": "Starks"
+                },
+                "avatar": {
+                    "url": null,
+                    "source": null,
+                    "default_avatar_color": "#709512"
+                },
+                "food_preferencies": null,
+                "how_you_met": {
+                    "general_information": "While trekking through a forest",
+                    "first_met_date": {
+                        "is_age_based": false,
+                        "is_year_unknown": false,
+                        "date": "2019-05-17T00:00:00Z"
+                    },
+                    "first_met_through_contact": null
+                }
+            },
+            "addresses": [
+                {
+                    "id": 40365,
+                    "object": "address",
+                    "name": "Childhood home",
+                    "street": "Royal Road",
+                    "city": "Winterfell",
+                    "province": "North",
+                    "postal_code": "500304",
+                    "latitude": 92,
+                    "longitude": 78,
+                    "country": {
+                        "id": "IE",
+                        "object": "country",
+                        "name": "Ireland",
+                        "iso": "IE"
+                    },
+                    "account": {
+                        "id": 17449
+                    },
+                    "contact": {
+                        "id": 322472,
+                        "object": "contact",
+                        "hash_id": "h:0jG6R7a2my34J29M5lJQ",
+                        "first_name": "Arya",
+                        "last_name": "Stark",
+                        "nickname": null,
+                        "complete_name": "Arya Stark",
+                        "initials": "AS",
+                        "gender": "Woman",
+                        "gender_type": "F",
+                        "is_partial": false,
+                        "is_dead": false,
+                        "information": {
+                            "birthdate": {
+                                "is_age_based": null,
+                                "is_year_unknown": null,
+                                "date": null
+                            },
+                            "deceased_date": {
+                                "is_age_based": null,
+                                "is_year_unknown": null,
+                                "date": null
+                            },
+                            "avatar": {
+                                "has_avatar": false,
+                                "avatar_url": null,
+                                "default_avatar_color": "#709512"
+                            }
+                        },
+                        "account": {
+                            "id": 17449
+                        }
+                    },
+                    "created_at": "2019-05-17T13:23:29Z",
+                    "updated_at": "2019-05-17T13:23:29Z"
+                }
+            ],
+            "tags": [],
+            "statistics": {
+                "number_of_calls": 0,
+                "number_of_notes": 2,
+                "number_of_activities": 0,
+                "number_of_reminders": 0,
+                "number_of_tasks": 0,
+                "number_of_gifts": 0,
+                "number_of_debts": 0
+            },
+            "account": {
+                "id": 17449
+            },
+            "created_at": "2019-05-17T13:19:49Z",
+            "updated_at": "2019-05-17T13:23:42Z"
+        },
+        {
+            "id": 322474,
+            "object": "contact",
+            "hash_id": "h:Bv8N36JZNlg7qzGr51py",
+            "first_name": "Faceless Man",
+            "last_name": null,
+            "nickname": null,
+            "description": null,
+            "gender": null,
+            "gender_type": null,
+            "is_starred": false,
+            "is_partial": false,
+            "is_active": true,
+            "is_dead": false,
+            "last_called": null,
+            "last_activity_together": null,
+            "stay_in_touch_frequency": null,
+            "stay_in_touch_trigger_date": null,
+            "information": {
+                "relationships": {
+                    "love": {
+                        "total": 0,
+                        "contacts": []
+                    },
+                    "family": {
+                        "total": 0,
+                        "contacts": []
+                    },
+                    "friend": {
+                        "total": 0,
+                        "contacts": []
+                    },
+                    "work": {
+                        "total": 0,
+                        "contacts": []
+                    }
+                },
+                "dates": {
+                    "birthdate": {
+                        "is_age_based": null,
+                        "is_year_unknown": null,
+                        "date": null
+                    },
+                    "deceased_date": {
+                        "is_age_based": null,
+                        "is_year_unknown": null,
+                        "date": null
+                    }
+                },
+                "career": {
+                    "job": null,
+                    "company": null
+                },
+                "avatar": {
+                    "url": null,
+                    "source": null,
+                    "default_avatar_color": "#fdb660"
+                },
+                "food_preferencies": null,
+                "how_you_met": {
+                    "general_information": null,
+                    "first_met_date": {
+                        "is_age_based": null,
+                        "is_year_unknown": null,
+                        "date": null
+                    },
+                    "first_met_through_contact": null
+                }
+            },
+            "addresses": [],
+            "tags": [],
+            "statistics": {
+                "number_of_calls": 0,
+                "number_of_notes": 0,
+                "number_of_activities": 0,
+                "number_of_reminders": 0,
+                "number_of_tasks": 0,
+                "number_of_gifts": 0,
+                "number_of_debts": 0
+            },
+            "account": {
+                "id": 17449
+            },
+            "created_at": "2019-05-17T13:24:11Z",
+            "updated_at": "2019-05-17T13:24:11Z"
+        }
+    ],
+    "links": {
+        "first": "https://app.monicahq.com/api/contacts?page=1",
+        "last": "https://app.monicahq.com/api/contacts?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "path": "https://app.monicahq.com/api/contacts",
+        "per_page": 15,
+        "to": 2,
+        "total": 2
+    }
+}

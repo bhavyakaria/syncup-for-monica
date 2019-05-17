@@ -1,0 +1,33 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Monica",
+		"_postman_id": "4ec7547d-2d84-8b31-0a72-d3061a76dbe9",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "monica_example_data",
+			"request": {
+				"url": "https://app.monicahq.com/api/contacts/ ",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer <OAUTH-TOKEN>",
+						"description": ""
+					},
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
